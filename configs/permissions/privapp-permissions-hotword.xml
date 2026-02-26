@@ -9,4 +9,6 @@
         <permission name="android.permission.KEYPHRASE_ENROLLMENT_APPLICATION"/>
         <permission name="android.permission.INTERACT_ACROSS_USERS"/>
     </privapp-permissions>
+    <privapp-permissions package="com.qualcomm.qti.poweroffalarm">
+        <permission name="android.permission.SCHEDULE_EXACT_ALARM"/>
 </permissions>
