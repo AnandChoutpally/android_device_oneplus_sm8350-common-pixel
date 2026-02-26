@@ -642,6 +642,12 @@ vendor/lib64/libmmosal.so;MODULE_SUFFIX=_vendor
 # Native public libraries
 vendor/etc/public.libraries.txt
 
+# PASR
+vendor/lib/vendor.qti.memory.pasrmanager@1.0.so
+vendor/lib/vendor.qti.memory.pasrmanager@1.1.so
+vendor/lib64/vendor.qti.memory.pasrmanager@1.0.so
+vendor/lib64/vendor.qti.memory.pasrmanager@1.1.so
+
 # Peripheral manager
 vendor/bin/pm-proxy
 vendor/bin/pm-service
