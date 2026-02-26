@@ -6,6 +6,11 @@
 soong_namespace {
 }
 
+runtime_resource_overlay {
+    name: "OplusDozeResCommon",
+    system_ext_specific: true,
+}
+
 install_symlink {
     name: "firmware_wlanmdsp.otaupdate_symlink",
     vendor: true,
