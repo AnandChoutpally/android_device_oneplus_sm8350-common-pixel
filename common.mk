@@ -404,3 +404,5 @@ $(call inherit-product-if-exists, vendor/oneplus/dolby/oplusdolby.mk)
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/oneplus/sm8350-common/sm8350-common-vendor.mk)
+
+RELEASE_BOARD_API_LEVEL := 202504
